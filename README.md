@@ -14,7 +14,7 @@
 ## 📸 Testing Demonstration & Visual Showcase
 
 ### 🎥 Live Testing Session (Interactive Browser Recording)
-![Interactive UI & Controls Test](docs/media/demo_testing.webp)
+![Interactive UI & Controls Test](docs/media/demo_testing.gif)
 
 *Automated end-to-end browser subagent test demonstrating instant playback controls, responsive theme toggling, and liquid glass surface depth.*
 
